@@ -1,0 +1,3 @@
+﻿  Palindrome.cpp
+c:\users\msqua\source\repos\palindrome\palindrome\palindrome.cpp(28): warning C4018: '<': signed/unsigned mismatch
+  Palindrome.vcxproj -> c:\users\msqua\source\repos\Palindrome\Debug\Palindrome.exe
